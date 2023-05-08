@@ -1,0 +1,5 @@
+employee_id,name,department,title,salary
+1,John,HR,Manager,100000.0
+2,Alice,Engineering,Engineer,90000.0
+3,Bob,Finance,,80000.0
+4,Charlie,Marketing,Coordinator,
